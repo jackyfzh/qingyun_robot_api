@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/python-3.8.0-orange.svg)](https://www.python.org/downloads/release/python-380/)
-![](https://img.shields.io/badge/requests-2.27.1-grey.svg)
+![](https://img.shields.io/badge/requests-2.27.1-yellow.svg)
 ![](https://img.shields.io/badge/qingyunke-api-green.svg)
 
 # qingyun_robot_api
@@ -14,10 +14,11 @@ pip3 install requests
 
 ## 功能列表
 - 聊天
-- 坑爹/doge
+- 坑爹 /doge
 
 ## 开源规范
 本项目遵循MIT-Licence，可作非商业用途，转载需表明原作者。
+
 **注意：本项目仅做学习使用，禁止作非法用途，笔者不负法律责任。**
 
 ## 最后
