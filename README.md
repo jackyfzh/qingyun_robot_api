@@ -10,7 +10,8 @@
 ```bash
 pip3 install requests
 ```
-请读者确保已安装`Python3.8`，此处不在赘述。
+> 请读者确保已安装`Python3.8`，此处不在赘述。
+接着，运行[`robot.py`](https://github.com/jackyfzh/qingyun_robot_api/blob/main/robot.py)以启动项目。
 
 ## 功能列表
 - 聊天
